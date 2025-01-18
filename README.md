@@ -77,9 +77,6 @@
 </p>
 
 
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=annanyatiwary4&show_icons=true&count_private=true&hide=prs&theme=dark" />
-</p>
 
 
  <details>
