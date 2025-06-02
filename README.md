@@ -2,8 +2,8 @@
 
 ## Future software developer in the making,,,<br> of course! With a sip of Java☕!!
 
-# 💫 About Me:
-🌱 I’m currently learning Full Stack Development<br>💬 Ask me Anything ??<br>📫 How to reach me: annanyatiwary4@gmail.com<br>⚡ Fun fact: Caffeine’s my co-pilot 💥☕
+##  About Me:
+🌱 I’m currently learning Full Stack Development<br>📫 How to reach me: annanyatiwary4@gmail.com<br>⚡ Fun fact: Caffeine’s my co-pilot 💥☕
 
 
 ## 🌐 Socials:
