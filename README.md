@@ -1,6 +1,6 @@
-# Hi 👋, I'm Annanya
+## Hi people !! I'm Annanya
 
-## Future software developer in the making,,,<br> of course! With a sip of Java☕!!
+ Future software developer in the making,,,<br> of course! With a sip of Java☕!!
 
 ##  About Me:
 🌱 I’m currently learning Full Stack Development<br>📫 How to reach me: annanyatiwary4@gmail.com<br>⚡ Fun fact: Caffeine’s my co-pilot 💥☕
