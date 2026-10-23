@@ -4,7 +4,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=64FFDA&center=true&vCenter=true&width=560&lines=Curious+about+the+why+behind+every+design;Learning+to+build+for+scale+and+reliability;Thinking+in+systems%2C+not+just+code;Aiming+for+work+that+matters)](https://git.io/typing-svg)
 
-![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=Annanyatiwary4)
+![Profile Views](https://komarev.com/ghpvc/?username=Annanyatiwary4&style=for-the-badge&color=38B2AC)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/annanyatiwary4)
 [![X](https://img.shields.io/badge/X-30363D?style=for-the-badge&logo=x&logoColor=white)](https://x.com/annan_ya)
